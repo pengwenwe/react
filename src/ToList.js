@@ -9,7 +9,8 @@ class Tolist extends Component {
     this.handleItemDelete = this.handleItemDelete.bind(this);
     this.state = {
       inputValue: '',
-      list: []
+      list: [],
+      test: 'eric'
     }
   }
   render() {
