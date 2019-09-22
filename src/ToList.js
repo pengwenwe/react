@@ -10,7 +10,9 @@ class Tolist extends Component {
     this.state = {
       inputValue: '',
       list: [],
-      test: 'eric'
+      test: 'eric',
+      add: 'hhh',
+      aa:[]
     }
   }
   render() {
